@@ -543,7 +543,11 @@ header {
         padding-left: 420px;
     }
 }
-
+@media(max-width:1100px){
+    .star_subtitle{
+        width: 117%;
+    }
+}
 @media(max-width:1024px){
     .button_text{
         font-size: calc(15px + 4 * (100vh / 1024));
@@ -568,7 +572,6 @@ header {
         padding-left: 20%;
     }
 }
-
 
 @media(max-width:900px){
     .choise_image{
