@@ -366,7 +366,7 @@ header {
     font-family: 'Nunito';
     font-weight: 400;
     font-size: calc(15px + 3 * (100vh / 1920));
-    text-align: center;
+    text-align: justify;
     color: #FFFFFF;
 }
 
@@ -406,7 +406,7 @@ header {
     font-family: 'Nunito';
     font-weight: 400;
     font-size: calc(16px + 3 * (100vh / 1920));
-    text-align: center;
+    text-align: justify;
     color: #FFFFFF;
 }
 .choise_button{
